@@ -1,0 +1,10 @@
+2023-09-10 20:25:57,887.v2_listen_for_messages.INFO ==================================================
+2023-09-10 20:25:57,888.v2_listen_for_messages.INFO Today is 2023-09-10 at 08:25 PM
+2023-09-10 20:25:57,889.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 20:25:57,891.v2_listen_for_messages.INFO Python version:  3.10.9
+2023-09-10 20:25:57,892.v2_listen_for_messages.INFO Python path: C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq\.venv
+2023-09-10 20:25:57,892.v2_listen_for_messages.INFO Working dir: C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq
+2023-09-10 20:25:57,892.v2_listen_for_messages.INFO ==================================================
+2023-09-10 20:25:57,911.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 20:26:32,647.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 20:34:09,596.v2_listen_for_messages.INFO Received: When is Saturday?

@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-09-10 at 04:20 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.10.9
+ Python Build Date and Compiler: main with Jan 11 2023 15:15:40
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq\.venv\Scripts\python.exe
+ Path to virtual environment: C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq\.venv
+ Current Working Directory:   C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq
+ Path to source directory:    c:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq
+ Path to script file:         c:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq\util_about.py
+ User's Home Directory:       C:\Users\rp150
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

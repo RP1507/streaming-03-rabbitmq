@@ -1,0 +1,8 @@
+2023-09-10 20:26:49,514.v2_emit_message.INFO ==================================================
+2023-09-10 20:26:49,514.v2_emit_message.INFO Today is 2023-09-10 at 08:26 PM
+2023-09-10 20:26:49,515.v2_emit_message.INFO Running on: nt Windows 10
+2023-09-10 20:26:49,515.v2_emit_message.INFO Python version:  3.10.9
+2023-09-10 20:26:49,516.v2_emit_message.INFO Python path: C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq\.venv
+2023-09-10 20:26:49,516.v2_emit_message.INFO Working dir: C:\Users\rp150\rp-venv\44671_StreamingData\Module3\streaming-03-rabbitmq
+2023-09-10 20:26:49,517.v2_emit_message.INFO ==================================================
+2023-09-10 20:26:49,534.v2_emit_message.INFO  [x] Sent Hello World!
