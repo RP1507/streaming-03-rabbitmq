@@ -166,4 +166,4 @@ Each of the version 2 programs include an error as well.
 - [RabbitMQ Get Started](https://www.rabbitmq.com/#getstarted)
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
-![A look at two terminals sending and receiving messages](./images/TerminalSend_Receive_Messages.PNG)
+![A look at two terminals sending and receiving messages](./images/TerminalSend_Receive_Messages.png)
